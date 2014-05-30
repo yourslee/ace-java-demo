@@ -4,7 +4,7 @@
     <title>Hello ACE</title>
 </head>
 <body>
-Hello ACE! My Name is <div class="appName"><%=config.getInitParameter("appName")%>
+Hello Lee! My Name is <div class="appName"><%=config.getInitParameter("appName")%>
 </div>
 </body>
 </html>
